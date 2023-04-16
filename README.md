@@ -2,7 +2,7 @@
 A simple Flask application to emulate a simple e-commerce platform
 
 ## Running
-First create a python virtual environment to store the packages used by this application by running\
+First create a python virtual environment to store the packages used by this application by running:
 ```python
 $ pip install virtualenv
 $ python -m venv .venv
